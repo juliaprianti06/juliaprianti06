@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 <h3> •Estudante de Análise e Densevolvimento de Sistemas👩🏻‍💻<br>
-•Sou uma desenvolvedora com interesse em inovação e aprendizado contínuo.📚</h3>
+•Sou uma desenvolvedora fullstack com interesse em inovação e aprendizado contínuo.📚<br></h3>
 </div>
 <div align="right">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200">
@@ -23,6 +23,6 @@
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="900" height="250">
   </div>
-  <h3>Entre em contato✉️</h3>
+  <h3>Entre em contato📮</h3>
   <a href="https://www.linkedin.com/in/julia-prianti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href = "mailto:julia.prianti2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
