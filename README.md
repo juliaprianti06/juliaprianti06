@@ -3,8 +3,8 @@
 <h1>Prazer, Júlia Prianti!</h1>
 </div>
 <div align="center">
-<h4> •Estudante de Análise e Densevolvimento de Sistemas👩🏻‍💻<br>
-•Sou uma desenvolvedora com interesse em tecnologia, inovação e aprendizado contínuo.📚</h4>
+<h3> •Estudante de Análise e Densevolvimento de Sistemas👩🏻‍💻<br>
+•Sou uma desenvolvedora com interesse em inovação e aprendizado contínuo.📚</h3>
 </div>
 <div align="right">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200">
