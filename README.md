@@ -5,7 +5,7 @@
 <div align="center">
 <p> 👩🏻‍💻Estudante de Análise e Desenvolvimento de Sistemas<br>
 📚Sou desenvolvedora fullstack com interesse em inovação e aprendizado contínuo<br>
- 📱Curiosa sobre: IA, Mobile Developmente e Banco de Dados</p>
+ 📱Curiosa sobre: IA, Mobile Development e Banco de Dados</p>
 </div>
 
 ---
