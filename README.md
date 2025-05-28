@@ -8,6 +8,7 @@
  📱Curiosa sobre: IA, Mobile Development e Banco de Dados</p>
 </div>
 
+
 ---
  </br>
  
