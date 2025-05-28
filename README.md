@@ -32,6 +32,7 @@
   <img align="center" alt="ju-MYSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="ju-MYSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="ju-MYSQL" height="40" src="https://skills-icons.vercel.app/api/icons?i=ollama"/>
+ <img align="center" alt="ju-MYSQL" height="40" src="https://go-skill-icons.vercel.app/api/icons?i=jax"/>
   </div>
   <br><br>
   <div align="center">
