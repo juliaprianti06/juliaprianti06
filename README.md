@@ -8,6 +8,7 @@
  📱Curiosa sobre: IA, Mobile Development e Banco de Dados</p>
 </div>
 
+</br>
 
 ---
  </br>
@@ -19,6 +20,8 @@
   🛠️**Projetos Desenvolvidos:**
   - Site da metodologia Scrum
   - IDE Sputnik
+  
+</br>
 
 ---
 </br>
