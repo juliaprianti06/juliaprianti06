@@ -20,6 +20,7 @@
   🛠️**Projetos Desenvolvidos:**
   - Site da metodologia Scrum
   - IDE Sputnik
+  - EntrenovaFlix
   
 </br>
 
@@ -28,15 +29,16 @@
 
 ## 💻Tecnologias
 <div style="display: inline_block">
-   <img alt="ju-Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="ju-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="ju-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="ju-MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img alt="ju-Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img alt="ju-JS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="ju-Ollama" width="40" src="https://skills-icons.vercel.app/api/icons?i=ollama"/>
-  <img alt="ju-Jax" width="40" src="https://go-skill-icons.vercel.app/api/icons?i=jax"/>
-
+   <img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img alt="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img alt="JS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img alt="Ollama" width="40" src="https://skills-icons.vercel.app/api/icons?i=ollama"/>
+  <img alt="Jax" width="40" src="https://go-skill-icons.vercel.app/api/icons?i=jax"/>
+  <img alt="TS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="SB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
   </div>
   <br><br>
   <div align="center">
